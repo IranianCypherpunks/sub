@@ -8,4 +8,4 @@ vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@maeve.ns.cloudflare.com:8443?path=%
 
 vmess://eyJhZGQiOiJtY2kuaXJhbmlhbmNwLmF1dG9zIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiNS5pcmFuaWFuY3AuYXV0b3MiLCJpZCI6IjcyZjc2YzM2LTNlM2MtNDViMy1hNjFmLWQ4ZjAxNzM0NTk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjIwNTMiLCJwcyI6IklyYW5pYW4gQ3lwaGVycHVua3MgMjA1MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJpcmFuaWFuY3AuYXV0b3MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@yadiel.ns.cloudflare.com:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b6.iraniancp.autos&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+2083
+vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@162.159.128.31:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b6.iraniancp.autos&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+2083
