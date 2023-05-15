@@ -11,3 +11,5 @@ vmess://eyJhZGQiOiIxMDQuMjQuMjA4LjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.31.16.194:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=b6.iraniancp.autos&fp=random&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+2083
 
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.65:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=worker.iraniancp.click&type=ws&sni=iraniancp.click#Iranian+Cypherpunks+443+worker
+
+vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@93.88.74.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=firefox&security=reality&pbk=Uhr5tVbWMaOSidsMcNxdBnM2OzO37nH106cPdmIoI1I&sid=d4dd377e#ICP%20REALITY
