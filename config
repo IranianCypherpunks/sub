@@ -13,3 +13,5 @@ vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.31.16.194:2083?path=%2F%3Fed%3D
 vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.65:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=worker.iraniancp.click&type=ws&sni=iraniancp.click#Iranian+Cypherpunks+443+worker
 
 vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@93.88.74.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=firefox&security=reality&pbk=Uhr5tVbWMaOSidsMcNxdBnM2OzO37nH106cPdmIoI1I&sid=d4dd377e#ICP%20REALITY
+
+vless://ce46a621-a0ff-4816-f38a-c023e22f34bc@91.107.133.124:443?security=reality&encryption=none&pbk=DfuW50QGMg_7_GAcfV2W2pRrf_0zCn4d8SDWimQqkDE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=d4dd377e#Iranian+Cypherpunks+Reality2
