@@ -1,17 +1,15 @@
-vmess://eyJhZGQiOiI0NS43Ny41NC4yMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImIxLmlyYW5pYW5jcC5jbGljayIsImlkIjoiMGM2NjRmNDQtOWY2OS00NTRmLTg0MWEtNDYxNjcxNWRmMjZmIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZFx1MDAzZDIwNDgiLCJwb3J0IjoiODg4MCIsInBzIjoiSXJhbmlhbiBDeXBoZXJwdW5rcyA4ODgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@173.245.58.34:443/?type=ws&encryption=none&host=admin.quranmajid.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=admin.quranmajid.eu.org&alpn=http%2F1.1&fp=chrome#%E2%96%A0%20Iranian%20Cypherpunks%20%7C%201
 
-vless://8230fa43-a36c-4b8f-f3c5-3cc8e8fc1999@speed.cloudflare.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=b2.iraniancp.click&type=ws#Iranian+Cypherpunks+8080
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@141.101.113.89:443/?type=ws&encryption=none&host=admin.quranmajid.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=admin.quranmajid.eu.org&alpn=http%2F1.1&fp=chrome#%E2%96%A0%20Iranian%20Cypherpunks%20%7C%205
 
-vmess://eyJhZGQiOiJzdXBwb3J0LmNsb3VkZmxhcmUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiMy5pcmFuaWFuY3AuY2xpY2siLCJpZCI6IjQ0YzQ2N2E5LThmMGQtNDFhNS1mMDBiLTg2NTY5NzUzZTViMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJJcmFuaWFuIEN5cGhlcnB1bmtzIDgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.18.210.98:443/?type=ws&encryption=none&host=admin.quranmajid.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=admin.quranmajid.eu.org&alpn=http%2F1.1&fp=chrome#%E2%96%A0%20Iranian%20Cypherpunks%20%7C%204
 
-vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=b4.iraniancp.click&type=ws&sni=iraniancp.click#Iranian+Cypherpunks+8443
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.25.255.254:443/?type=ws&encryption=none&host=admin.quranmajid.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=admin.quranmajid.eu.org&alpn=http%2F1.1&fp=chrome#%E2%96%A0%20Iranian%20Cypherpunks%20%7C%202
 
-vmess://eyJhZGQiOiIxMDQuMjQuMjA4LjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiNS5pcmFuaWFuY3AuY2xpY2siLCJpZCI6IjcyZjc2YzM2LTNlM2MtNDViMy1hNjFmLWQ4ZjAxNzM0NTk1OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjIwNTMiLCJwcyI6IklyYW5pYW4gQ3lwaGVycHVua3MgMjA1MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJpcmFuaWFuY3AuY2xpY2siLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.109:443/?type=ws&encryption=none&host=admin.quranmajid.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=admin.quranmajid.eu.org&alpn=http%2F1.1&fp=chrome#%E2%96%A0%20Iranian%20Cypherpunks%20%7C%203
 
-vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.31.16.194:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=b6.iraniancp.autos&fp=random&type=ws&sni=iraniancp.autos#Iranian+Cypherpunks+2083
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.16.178.157:443/?type=ws&encryption=none&host=admin.quranmajid.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=admin.quranmajid.eu.org&alpn=http%2F1.1&fp=chrome#%E2%96%A0%20Iranian%20Cypherpunks%20%7C%206
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.31.16.65:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=worker.iraniancp.click&type=ws&sni=iraniancp.click#Iranian+Cypherpunks+443+worker
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@[2606:4700:3030::6815:2b91]:443/?type=ws&encryption=none&host=admin.quranmajid.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=admin.quranmajid.eu.org&alpn=http%2F1.1&fp=chrome#%E2%96%A0%E2%97%8F%20Iranian%20Cypherpunks%20%7C%20IPv6
 
-vless://9d1c4003-5b9a-4552-c98f-4eaaffe4ada9@93.88.74.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.com&fp=firefox&security=reality&pbk=Uhr5tVbWMaOSidsMcNxdBnM2OzO37nH106cPdmIoI1I&sid=d4dd377e#ICP%20REALITY
-
-vless://ce46a621-a0ff-4816-f38a-c023e22f34bc@91.107.133.124:443?security=reality&encryption=none&pbk=DfuW50QGMg_7_GAcfV2W2pRrf_0zCn4d8SDWimQqkDE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=d4dd377e#Iranian+Cypherpunks+Reality2
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@[2606:4700:3032::6815:1886]:443/?type=ws&encryption=none&host=admin.quranmajid.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=admin.quranmajid.eu.org&alpn=http%2F1.1&fp=chrome#%E2%96%A0%E2%97%8F%20Iranian%20Cypherpunks%20%7C%20IPv6
