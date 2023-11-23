@@ -1,6 +1,5 @@
-vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@discord.com:443/?type=ws&encryption=none&host=singbox.cypherpunks.asia&path=%2Fcypherpunks&security=tls&sni=singbox.cypherpunks.asia&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%E2%97%8F%20Sing-Box%20%7C%20%40Ln2Ray%0A%F0%9F%8E%97%20Iranian%20Cypherpunks%20VPN
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@188.114.97.7:443/?type=ws&encryption=none&host=current.iraniancp.fun&path=%2F%3Fed%3D2048&security=tls&sni=current.iraniancp.fun&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%E2%97%8F%20Load-balance%20%7C%20%40Ln2Ray%0A%F0%9F%8E%97%20Iranian%20Cypherpunks%20VPN
 
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@discord.com:443/?type=ws&encryption=none&host=current.iraniancp.click&path=%2F%3Fed%3D2048&security=tls&sni=current.iraniancp.click&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%E2%97%8F%20Load-balance%20%7C%20%40Ln2Ray%0A%F0%9F%8E%97%20Iranian%20Cypherpunks%20VPN
+vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@188.114.97.7:443/?type=ws&encryption=none&host=singbox.cypherpunks.asia&path=%2Fcypherpunks&security=tls&sni=singbox.cypherpunks.asia&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%E2%97%8F%20Sing-Box%20%7C%20%40Ln2Ray%0A%F0%9F%8E%97%20Iranian%20Cypherpunks%20VPN
 
-vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@singbox.cypherpunks.asia:443?path=%2Fcypherpunks&security=tls&encryption=none&alpn=http/1.1&host=singbox.cypherpunks.asia&fp=chrome&type=ws&sni=singbox.cypherpunks.asia#%E2%97%8F+Sing-Box+%7C+%40Ln2Ray%0A%F0%9F%8E%97+Iranian+Cypherpunks+VPN
-
+vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@singbox.cypherpunks.asia:443/?type=ws&encryption=none&host=singbox.cypherpunks.asia&path=%2Fcypherpunks&security=tls&sni=singbox.cypherpunks.asia&alpn=http%2F1.1&fp=chrome&packetEncoding=xudp#%E2%97%8F%20Sing-Box%20%7C%20%40Ln2Ray%0A%F0%9F%8E%97%20Iranian%20Cypherpunks%20VPN
